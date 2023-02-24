@@ -1,5 +1,6 @@
 # ITK and MATLAB Python Tutorial
 
+[![DOI](https://zenodo.org/badge/606080472.svg)](https://zenodo.org/badge/latestdoi/606080472)
 [![View itk-matlab-python-tutorial on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/125300-itk-matlab-python-tutorial)
 
 ![itk-matlab-python-tutorial](./itk-matlab-featured-image.png)
